@@ -321,13 +321,7 @@ Check out the `examples/` directory for:
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@dataset{img_cap_dataset_2024,
-    title={Image Captioning Dataset: A Large-Scale Collection for Vision-Language Research},
-    author={Pavel, CodeWith and Contributors},
-    year={2024},
-    url={https://github.com/codewith-pavel/img-cap_dataset},
-    version={1.0}
-}
+@dataset{soon}
 ```
 
 ## 📜 License
