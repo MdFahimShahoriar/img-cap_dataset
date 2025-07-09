@@ -1,4 +1,4 @@
-# Image Captioning Dataset (img-cap_dataset)
+# Image Captioning Dataset
 
 A comprehensive dataset for training and evaluating image captioning models, containing high-quality image-caption pairs for computer vision and natural language processing research.
 
